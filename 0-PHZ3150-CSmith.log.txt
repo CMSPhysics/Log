@@ -209,7 +209,7 @@ PHZ3150_Handin_HW3
 
 = A =
 
-I downloaded the GitHub desktop app in a previous lecture, then I opened the desktop GitHub app and followed the following paths to create a new repository:
+I downloaded the GitHub desktop app in a previous lecture by searching for the app and then entering my email and creating a password. Next I opened the desktop GitHub app and followed the following paths to create a new repository:
 
 File_New Repository
 
