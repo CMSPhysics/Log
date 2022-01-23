@@ -222,3 +222,16 @@ After naming it I created the repository than pushed repository to web browser G
 = B =
 
 
+= C =
+
+I created a new folder test_git
+
+PHZ3150_test_git
+
+I placed this folder under revision control by opening the GitHub desktop app and creating a new repository 
+
+File_NewRepository 
+
+I named this repository test_git 
+
+= D = 
